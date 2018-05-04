@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/fonts/regularFont.spritefont</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/fonts/hilightFont.spritefont</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/images/helpImage.png</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/images/d.png</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/images/player.png</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/images/zombie.gif</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/images/pokemon.png</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/images/credits.png</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/sounds/background.mp3</File>
+    <File>C:/Users/pkhamvongsa8118/Desktop/Final stuff/Zombie game/AllinOne2017/AllinOne2017/Content/fonts/HUD.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

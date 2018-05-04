@@ -1,0 +1,131 @@
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.csprojResolveAssemblyReference.cache
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.csproj.CoreCompileInputs.cache
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario_bg.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario_sky_bg.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.exe
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.pdb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.exe
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.pdb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\d.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\down.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\left.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\right.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\up.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\Bat.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\down.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\left.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario_bg.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario_sky_bg.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\right.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\up.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\d.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\player.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.exe
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.pdb
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.csprojResolveAssemblyReference.cache
+E:\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.csproj.CoreCompileInputs.cache
+E:\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.exe
+E:\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.pdb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\pokemon.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\credits.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\sounds\background.wma
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\sounds\background.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\HUD.xnb
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.exe.manifest
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.application
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.exe.manifest
+C:\Users\pjkha\Downloads\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.application
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\Bat.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\down.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\left.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario_bg.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\mario_sky_bg.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\right.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\up.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\credits.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\d.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\helpImage.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\player.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\pokemon.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\images\zombie.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\sounds\background.wma
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\sounds\background.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\hilightFont.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\HUD.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\Content\fonts\regularFont.xnb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.exe.manifest
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.application
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.exe
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\AllinOne2017.pdb
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.csprojResolveAssemblyReference.cache
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.csproj.CoreCompileInputs.cache
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.exe.manifest
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.application
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.exe
+C:\Users\pkhamvongsa8118\Desktop\Final stuff\Zombie game\AllinOne2017\AllinOne2017\obj\x86\Debug\AllinOne2017.pdb

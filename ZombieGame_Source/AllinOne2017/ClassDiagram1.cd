@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AllinOne2017.ActionScene">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAQAAAAAAAAAAAAQAAABAAQAAAAAAAAA=</HashCode>
+      <FileName>ActionScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.Background" Collapsed="true">
+    <Position X="16.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYCAkwAAkBEAkAAAAkAAABAAQBAAACAAAADQAEYIAQ=</HashCode>
+      <FileName>Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.CreditScene">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAwAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreditScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.Game1" Collapsed="true">
+    <Position X="27.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQEGACgEAAAwAAAAAAAAAAAAAAAAgFAAAAAAQAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.GameScene">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAA4AAAACAABAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>GameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.HelpScene">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAwAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelpScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.HUD" Collapsed="true">
+    <Position X="23" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAEAAAAAAAgAAAAAAAAAAAAAAAAABAQAAAAAAIAQ=</HashCode>
+      <FileName>HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.MenuComponent" Collapsed="true">
+    <Position X="25.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAgAAwAAAAAQKAIAAAAAgBAQAIAAAAAAAAA=</HashCode>
+      <FileName>MenuComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.Player" Collapsed="true">
+    <Position X="18.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AllinOne2017.Player.Directions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Player.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAQDkEJIgQkQKgogKgWIYCAABAEAAAABCQQgAgFEIoU=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.Program" Collapsed="true">
+    <Position X="31.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.Score" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAQAAACAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="AllinOne2017.Shared" Collapsed="true">
+    <Position X="29.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shared.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.StartScene">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAwAAAAAQAAgAAAAIAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>StartScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllinOne2017.Zombie" Collapsed="true">
+    <Position X="20.75" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="AllinOne2017.Zombie.Directions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Zombie.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAxyAEMIgAkAIgIAIJGAIIAAAAFAAIQJAQQgAggAIAQ=</HashCode>
+      <FileName>Zombie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="C3.XNA.Primitives2D" Collapsed="true">
+    <Position X="29.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACAQAAAAAAEAABIAAAQAACAAABABIEAAAAAAAAA=</HashCode>
+      <FileName>Primitives2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.DrawableGameComponent" Collapsed="true">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
